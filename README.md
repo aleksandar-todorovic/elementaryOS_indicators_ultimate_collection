@@ -2,7 +2,6 @@
 
 Welcome to my repository!
 
-#![image](https://github.com/s-kaczmarek/elementaryOS_indicators_ultimate_collection/blob/master/preview.png)
 <p align="center">
   <img src="https://github.com/s-kaczmarek/elementaryOS_indicators_ultimate_collection/blob/master/preview.png" alt="preview"/>
 </p>
