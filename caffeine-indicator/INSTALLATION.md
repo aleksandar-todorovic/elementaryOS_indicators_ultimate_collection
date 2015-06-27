@@ -32,7 +32,7 @@ $ sudo apt-get install caffeine
 
 ## credits
 
-fsvh: https://github.com/fsvh/freya-indicators - fstvh version
+fsvh: https://github.com/fsvh/freya-indicators - fstvh version  
 other versions - by me
 
 ## If you like my work please consider small donation in BTC
