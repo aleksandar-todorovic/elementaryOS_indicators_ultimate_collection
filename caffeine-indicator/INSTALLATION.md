@@ -1,6 +1,4 @@
-###########################################
-# CAFFEINE-INDICATOR ICONS - INSTALLATION #
-###########################################
+## CAFFEINE-INDICATOR ICONS - INSTALLATION 
 
 # how to install caffeine:
 
@@ -38,7 +36,7 @@ fsvh: https://github.com/fsvh/freya-indicators - fstvh version
 other versions - by me
 
 # If you like my work please consider small donation in BTC
-# wallet address: 3MebmSvPAp4nSuy9auVQqS53rQtCcmuKFw
+wallet address: `3MebmSvPAp4nSuy9auVQqS53rQtCcmuKFw`
 
-# best regards,
-# S.Kaczmarek
+best regards,
+S.Kaczmarek
