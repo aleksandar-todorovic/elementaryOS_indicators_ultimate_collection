@@ -4,9 +4,9 @@
 
 # how to install caffeine:
 
-<p>`$ sudo add-apt-repository ppa:caffeine-developers/ppa`</p>
-<p>`$ sudo apt-get update`</p>
-<p>`$ sudo apt-get install caffeine`</p>
+`$ sudo add-apt-repository ppa:caffeine-developers/ppa`
+`$ sudo apt-get update`
+`$ sudo apt-get install caffeine`
 
 # how to add caffeine-indicator to autostart
 
@@ -18,7 +18,7 @@
 
 4. click + on left-bottom corner
 
-5. type command: `caffeine-indicator`
+5. type command: caffeine-indicator
 
 # how to change icons:
 
