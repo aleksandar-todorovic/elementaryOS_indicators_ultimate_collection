@@ -4,9 +4,9 @@
 
 # how to install caffeine:
 
-$ sudo add-apt-repository ppa:caffeine-developers/ppa
-$ sudo apt-get update
-$ sudo apt-get install caffeine
+`$ sudo add-apt-repository ppa:caffeine-developers/ppa`
+`$ sudo apt-get update`
+`$ sudo apt-get install caffeine`
 
 # how to add caffeine-indicator to autostart
 
@@ -24,11 +24,11 @@ $ sudo apt-get install caffeine
 
 1. open file browser as root: $ sudo pantheon-files
 
-2. if you use "elementary" icon theme navigate to: /usr/share/icons/Numix-Circle/22x22/status/
+2. if you use "elementary" icon theme navigate to: `/usr/share/icons/Numix-Circle/22x22/status/`
 
 3. paste icons version of your liking from "ICONS" folder
 
-4. reload wingpanel: $ killall wingpanel
+4. reload wingpanel: `$ killall wingpanel`
 
 # credits
 
