@@ -4,9 +4,11 @@
 
 # how to install caffeine:
 
-<p>`$ sudo add-apt-repository ppa:caffeine-developers/ppa`</p>
-<p>`$ sudo apt-get update`</p>
-<p>`$ sudo apt-get install caffeine`</p>
+```sh
+$ sudo add-apt-repository ppa:caffeine-developers/ppa
+$ sudo apt-get update
+$ sudo apt-get install caffeine
+```
 
 # how to add caffeine-indicator to autostart
 
