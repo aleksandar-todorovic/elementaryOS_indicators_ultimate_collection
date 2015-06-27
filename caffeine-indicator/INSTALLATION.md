@@ -22,7 +22,7 @@ $ sudo apt-get install caffeine
 
 ## how to change icons:
 
-1. open file browser as root: $ sudo pantheon-files
+1. open file browser as root: `$ sudo pantheon-files`
 
 2. if you use "elementary" icon theme navigate to: `/usr/share/icons/Numix-Circle/22x22/status/`
 
@@ -38,5 +38,5 @@ other versions - by me
 ## If you like my work please consider small donation in BTC
 wallet address: `3MebmSvPAp4nSuy9auVQqS53rQtCcmuKFw`
 
-best regards,
+best regards,  
 S.Kaczmarek
