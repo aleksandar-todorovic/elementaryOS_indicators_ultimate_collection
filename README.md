@@ -12,6 +12,6 @@ Welcome to my repository!
 
 * Feel free to share and modify content!
 
-* If you like what I'm doing, please consider donation. BTC wallet adress is easy to find in installation guides.
+* If you like what I'm doing, please consider donation. BTC wallet adress: `12ns4xs83kXmnVYjCC9N8Q8B4Cmd5gx4j5`
 
 S.Kaczmarek

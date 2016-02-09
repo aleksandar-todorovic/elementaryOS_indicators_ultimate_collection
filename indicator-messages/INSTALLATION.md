@@ -19,7 +19,7 @@
 6. in case something goes wrong, original icons are included in .tar.gz file 
 
 # If you like my work please consider small donation in BTC
-# wallet address: 3MebmSvPAp4nSuy9auVQqS53rQtCcmuKFw
+# wallet address: 12ns4xs83kXmnVYjCC9N8Q8B4Cmd5gx4j5
 
 # best regards,
 # S.Kaczmarek
